@@ -1,6 +1,6 @@
 ## About Me
 
-- Currently working on [The Owl Engine](https://github.com/TheOwlEngine) project and some private companies.
+- Currently maintaining [The Owl Engine](https://github.com/TheOwlEngine) project and some private projects.
 - Interested in Data Extraction, Web Scraping & Automation, and Text Processing.
 
 ## Socials
